@@ -60,7 +60,7 @@
 
 - Python
 - Pandas (สำหรับการจัดการข้อมูล)
-- Matplotlib/Seaborn (สำหรับการสร้างกราฟ)
+- Plotly Express (สำหรับการสร้างกราฟ)
 - NumPy (สำหรับการคำนวณ)
 - Jupyter Notebook (สำหรับการพัฒนาและนำเสนอ)
 
